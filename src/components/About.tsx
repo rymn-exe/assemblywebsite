@@ -4,7 +4,8 @@ import { WarningBox } from './ManualVisuals';
 const About: React.FC = () => {
   return (
     <section id="about" style={{ padding: '60px 40px', borderBottom: 'var(--manual-border)', position: 'relative' }}>
-      <h2 style={{ marginBottom: '20px' }}>02. About the Play</h2>
+      <h2 style={{ marginBottom: '4px' }}>Step 1</h2>
+      <h3 style={{ marginBottom: '20px', fontWeight: 'normal', fontSize: '1rem', opacity: 0.6, textTransform: 'uppercase', letterSpacing: '0.1em' }}>About the Play</h3>
       <div style={{ maxWidth: '650px' }}>
         <div style={{ borderLeft: '10px solid var(--sweater-yellow)', paddingLeft: '20px', marginBottom: '30px' }}>
           <p style={{ fontSize: '1.4rem', fontWeight: 'bold', margin: 0, lineHeight: 1.5 }}>
