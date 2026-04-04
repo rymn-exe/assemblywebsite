@@ -7,7 +7,7 @@ const Involved: React.FC = () => {
       <h3 style={{ marginBottom: '20px', fontWeight: 'normal', fontSize: '1rem', opacity: 0.6, textTransform: 'uppercase', letterSpacing: '0.1em' }}>Get Involved</h3>
       <div style={{ maxWidth: '600px' }}>
         <p style={{ marginBottom: '20px' }}>
-          This project is for people who like to build..
+          This project is for people who like to build.
           We’re looking for creative spirits, support staff, and those who want to be part of the "Fringe" energy.
         </p>
         <p style={{ marginBottom: '30px' }}>
