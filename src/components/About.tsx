@@ -12,8 +12,7 @@ const About: React.FC = () => {
             Joule is doing everything right this time.
           </p>
           <p style={{ fontSize: '1.1rem', margin: '14px 0 0', lineHeight: 1.8, color: '#333' }}>
-            <span style={{ display: 'block' }}>She's certain that every moment of her life has led her here,</span>
-            <span style={{ display: 'block' }}>with Violet,</span>
+            <span style={{ display: 'block' }}>She's certain that every moment of her life has led her here, with Violet</span>
             <span style={{ display: 'block' }}>holding herself together by the turn of an Allen key.</span>
           </p>
         </div>
