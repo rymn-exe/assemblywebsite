@@ -1,13 +1,28 @@
 import React, { useState } from 'react';
 
+const FORMSPREE_URL = 'https://formspree.io/f/xeeppkey';
+
 const Waitlist: React.FC = () => {
   const [email, setEmail] = useState('');
   const [submitted, setSubmitted] = useState(false);
+  const [error, setError] = useState(false);
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (email.trim()) {
-      setSubmitted(true);
+    setError(false);
+    try {
+      const res = await fetch(FORMSPREE_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+        body: JSON.stringify({ email }),
+      });
+      if (res.ok) {
+        setSubmitted(true);
+      } else {
+        setError(true);
+      }
+    } catch {
+      setError(true);
     }
   };
 
@@ -46,6 +61,11 @@ const Waitlist: React.FC = () => {
             <button type="submit" className="button-primary" style={{ fontSize: '1rem', padding: '14px' }}>
               Notify Me When Tickets Drop
             </button>
+            {error && (
+              <p style={{ margin: 0, fontSize: '0.85rem', color: '#b00020' }}>
+                Something went wrong. Please try again or email us directly.
+              </p>
+            )}
           </form>
         )}
 
