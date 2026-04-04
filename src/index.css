@@ -58,3 +58,25 @@ section {
 .button-primary:hover {
   filter: brightness(0.9);
 }
+
+@media (max-width: 600px) {
+  .manual-container {
+    padding: 20px 16px;
+  }
+
+  .hero-title {
+    font-size: 2.4rem !important;
+  }
+
+  .hero-steps {
+    font-size: 2rem !important;
+  }
+
+  .hero-inner {
+    padding: 60px 24px !important;
+  }
+
+  .hero-dates {
+    padding: 16px 20px !important;
+  }
+}
