@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 :root {
   --manual-white: #f8f9fa;
   --sweater-yellow: #fdd835;

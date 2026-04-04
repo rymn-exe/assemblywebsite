@@ -13,7 +13,7 @@ const Involved: React.FC = () => {
         <p style={{ marginBottom: '30px' }}>
           Offering credit, profit-sharing, and collaboration opportunities.
         </p>
-        <a href="mailto:rymn.exe@gmail.com" className="button-primary">Reach Out</a>
+        <a href="#contact" className="button-primary">Reach Out</a>
       </div>
     </section>
   );
