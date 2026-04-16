@@ -19,23 +19,23 @@ const members: TeamMember[] = [
   {
     name: 'Francesa Amato',
     title: 'Stage Manager',
-    bio: 'Francesa is a Toronto-based stage manager with a passion for keeping chaos organized and artists supported. She brings clarity and calm to even the most absurd productions.',
-    link: '',
-    linkLabel: '',
+    bio: 'Francesca is an interdisciplinary writer, musician, and theatre artist crafting bold, queer, character-driven work. Guided by authentic storytelling and lived experiences, her practice includes comedy, drag, music, devised theatre, jewelry design, and sculptural set building.',
+    link: 'https://francesca00cm.wixsite.com/francescatheartist',
+    linkLabel: 'Website',
   },
   {
     name: 'Olivia Korosak',
     title: 'Sound Designer',
     bio: 'Olivia is a sound designer who believes that the right sound at the right moment can say what words cannot. She creates sonic worlds that are immersive, surprising, and deeply felt.',
-    link: '',
-    linkLabel: '',
+    link: 'https://oliviakorosak.com/',
+    linkLabel: 'Website',
   },
   {
     name: 'Emma Scoble',
     title: 'The Narrator',
-    bio: 'Emma is a performer whose voice carries both precision and warmth — exactly what a narrator of assembly instructions requires. She has a gift for making the absurd feel inevitable.',
-    link: '',
-    linkLabel: '',
+    bio: <>Emma Scoble (she/her) is an actor and graduate of Theatre and Drama Studies at the University of Toronto who recently appeared as Face in <em>The Alchemist</em> and Malvolio in <em>Twelfth Night</em> (Theatre Erindale). When she is not acting, she enjoys painting, playwriting, practicing stage combat, and consuming copious amounts of sci-fi media and classical plays.</>,
+    link: 'https://www.instagram.com/scoberlone_',
+    linkLabel: 'Instagram',
   },
   {
     name: 'Brianna Newman',
@@ -47,9 +47,9 @@ const members: TeamMember[] = [
   {
     name: 'Ruby Jaclyn',
     title: 'Violet',
-    bio: 'Ruby is a performer whose instincts are sharp and whose presence is magnetic. She finds the humor and heartbreak in Violet\'s role as the reluctant, essential helper.',
-    link: '',
-    linkLabel: '',
+    bio: 'Ruby Jaclyn is a Canadian actor and graduate of Vancouver Film School with a passion for live performance. With a love for comedy, she is thrilled to bring wit and heart to the role of Violet.',
+    link: 'https://www.instagram.com/rubyjaclynn',
+    linkLabel: 'Instagram',
   },
 ];
 
