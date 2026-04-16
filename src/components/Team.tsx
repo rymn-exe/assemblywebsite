@@ -34,7 +34,7 @@ const members: TeamMember[] = [
     name: 'Emma Scoble',
     title: 'The Narrator',
     bio: <>Emma Scoble (she/her) is an actor and graduate of Theatre and Drama Studies at the University of Toronto who recently appeared as Face in <em>The Alchemist</em> and Malvolio in <em>Twelfth Night</em> (Theatre Erindale). When she is not acting, she enjoys painting, playwriting, practicing stage combat, and consuming copious amounts of sci-fi media and classical plays.</>,
-    link: 'https://www.instagram.com/scoberlone_',
+    link: 'https://www.instagram.com/scoblerone_',
     linkLabel: 'Instagram',
   },
   {
