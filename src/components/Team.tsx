@@ -17,7 +17,7 @@ const members: TeamMember[] = [
     linkLabel: '@assemblysuggested',
   },
   {
-    name: 'Francesa Amato',
+    name: 'Francesca Amato',
     title: 'Stage Manager',
     bio: 'Francesca is an interdisciplinary writer, musician, and theatre artist crafting bold, queer, character-driven work. Guided by authentic storytelling and lived experiences, her practice includes comedy, drag, music, devised theatre, jewelry design, and sculptural set building.',
     link: 'https://francesca00cm.wixsite.com/francescatheartist',
@@ -40,7 +40,14 @@ const members: TeamMember[] = [
   {
     name: 'Brianna Newman',
     title: 'Joule',
-    bio: 'Brianna is an actor who thrives in roles that require vulnerability wrapped in determination. She brings a grounded humanity to Joule\'s stubborn, hopeful pursuit of assembly.',
+    bio: 'Brianna Newman is a Canadian actor/performer and a student going into her 4th year at Sheridan College\'s Honours Bachelor of Music Theatre Performance. She recently performed as Velma Kelly in Chicago (Storybook Theatre) and is a part of The Rhythm Ensemble, a pre-professional tap training company directed by Juliana Kelly. When Brianna is off stage, she enjoys D&D, water sports and fitness.',
+    link: 'https://www.instagram.com/brianna.newman/',
+    linkLabel: 'Instagram',
+  },
+  {
+    name: 'Ryan Sullivan',
+    title: 'Lighting Designer & Production Assistant',
+    bio: 'Ryan is a Theatre Production & Design student at York university, entering their third year this fall. Their multidisciplinary practice centers around a passion for new theatre, and finding order in the chaos. Their most recent work was as an LX designer and technician for York University\'s Devised Theatre Festival 2026, and are excited to be part of the Assembly Sϋggested team.',
     link: '',
     linkLabel: '',
   },
