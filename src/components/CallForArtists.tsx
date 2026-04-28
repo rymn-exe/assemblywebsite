@@ -21,7 +21,7 @@ export const CallForArtistsBanner: React.FC = () => {
             Call for Artists
           </p>
           <p style={{ margin: '6px 0 0', fontSize: '1rem', fontWeight: 700, lineHeight: 1.35, fontFamily: 'Inter, system-ui, -apple-system, sans-serif' }}>
-            Submit your artwork and get featured in the Assembly Sϋggested program guide and other promotional materials.
+            Submit your artwork and get featured in the Assembly Sϋggested playbill and other promotional materials.
           </p>
         </div>
         <span style={{ fontSize: '1.4rem', lineHeight: 1, fontWeight: 800, opacity: 0.85 }} aria-hidden="true">
@@ -41,7 +41,7 @@ const CallForArtists: React.FC = () => {
       </h3>
       <div style={{ maxWidth: '700px' }}>
         <p style={{ marginBottom: '18px', lineHeight: 1.7 }}>
-          We are inviting artists to submit original chair artwork in their own style for <em>Assembly Sϋggested</em>. Selected pieces will be featured in the program guide, on social media, and on the website.
+          We are inviting artists to submit original chair artwork in their own style for <em>Assembly Sϋggested</em>. Selected pieces will be featured in the playbill, on social media, and on the website.
         </p>
         <p style={{ marginBottom: '18px', lineHeight: 1.7 }}>
           To be eligible, artists must also post about the show on their social media.
