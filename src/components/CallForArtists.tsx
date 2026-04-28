@@ -41,7 +41,7 @@ const CallForArtists: React.FC = () => {
       </h3>
       <div style={{ maxWidth: '700px' }}>
         <p style={{ marginBottom: '18px', lineHeight: 1.7 }}>
-          We are inviting artists to submit original chair artwork in their own style for <em>Assembly Sϋggested</em>. Selected pieces will be featured in the playbill, on social media, and on the website.
+          We are inviting artists to submit original artwork of a chair in their own style for <em>Assembly Sϋggested</em>. Selected pieces will be featured in the playbill, on social media, and on the website.
         </p>
         <p style={{ marginBottom: '18px', lineHeight: 1.7 }}>
           To be eligible, artists must also post about the show on their social media.
