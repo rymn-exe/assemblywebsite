@@ -3,7 +3,7 @@ import React from 'react';
 const Audience: React.FC = () => {
   return (
     <section id="audience" style={{ padding: '60px 40px', borderBottom: 'var(--manual-border)' }}>
-      <h2 style={{ marginBottom: '4px' }}>Step 4</h2>
+      <h2 style={{ marginBottom: '4px' }}>Step 6</h2>
       <h3 style={{ marginBottom: '20px', fontWeight: 'normal', fontSize: '1rem', opacity: 0.6, textTransform: 'uppercase', letterSpacing: '0.1em' }}>Audience Info</h3>
       <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '30px' }}>
         <div>

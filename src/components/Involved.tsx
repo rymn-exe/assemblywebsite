@@ -3,7 +3,7 @@ import React from 'react';
 const Involved: React.FC = () => {
   return (
     <section id="involved" style={{ padding: '60px 40px', backgroundColor: '#e0e0e0', borderBottom: 'var(--manual-border)' }}>
-      <h2 style={{ marginBottom: '4px' }}>Step 3</h2>
+      <h2 style={{ marginBottom: '4px' }}>Step 5</h2>
       <h3 style={{ marginBottom: '20px', fontWeight: 'normal', fontSize: '1rem', opacity: 0.6, textTransform: 'uppercase', letterSpacing: '0.1em' }}>Get Involved</h3>
       <div style={{ maxWidth: '600px' }}>
         <p style={{ marginBottom: '20px' }}>

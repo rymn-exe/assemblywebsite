@@ -29,7 +29,7 @@ const Waitlist: React.FC = () => {
   return (
     <section id="waitlist" style={{ padding: '80px 40px', backgroundColor: 'var(--sweater-yellow)', borderBottom: 'var(--manual-border)' }}>
       <div style={{ maxWidth: '560px' }}>
-        <h2 style={{ marginBottom: '4px' }}>Step 6</h2>
+        <h2 style={{ marginBottom: '4px' }}>Step 8</h2>
         <h3 style={{ marginBottom: '10px', fontWeight: 'normal', fontSize: '1rem', opacity: 0.6, textTransform: 'uppercase', letterSpacing: '0.1em' }}>Join the Waitlist</h3>
         <p style={{ fontSize: '1.1rem', marginBottom: '30px' }}>
           Tickets aren't on sale yet — but when they drop, you'll be the first to know.

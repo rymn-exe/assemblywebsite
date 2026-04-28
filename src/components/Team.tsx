@@ -77,7 +77,7 @@ const members: TeamMember[] = [
 const Team: React.FC = () => {
   return (
     <section id="team" style={{ padding: '60px 40px', borderBottom: 'var(--manual-border)' }}>
-      <h2 style={{ marginBottom: '4px' }}>Step 2</h2>
+      <h2 style={{ marginBottom: '4px' }}>Step 3</h2>
       <h3 style={{ marginBottom: '40px', fontWeight: 'normal', fontSize: '1rem', opacity: 0.6, textTransform: 'uppercase', letterSpacing: '0.1em' }}>The Team</h3>
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(260px, 1fr))', gap: '40px' }}>
         {members.map((member) => (

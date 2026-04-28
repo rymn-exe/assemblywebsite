@@ -3,7 +3,7 @@ import React from 'react';
 const Contact: React.FC = () => {
   return (
     <section id="contact" style={{ padding: '60px 40px', backgroundColor: '#fff', borderBottom: 'none' }}>
-      <h2 style={{ marginBottom: '4px' }}>Step 7</h2>
+      <h2 style={{ marginBottom: '4px' }}>Step 9</h2>
       <h3 style={{ marginBottom: '20px', fontWeight: 'normal', fontSize: '1rem', opacity: 0.6, textTransform: 'uppercase', letterSpacing: '0.1em' }}>Contact</h3>
       <div style={{ maxWidth: '600px' }}>
         <p style={{ marginBottom: '10px' }}>
